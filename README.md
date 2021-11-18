@@ -9,7 +9,7 @@ The front-end utilizes Javascript, JSX, HTML, and CSS using React and Bootstrap/
 
 ![Main Page](https://user-images.githubusercontent.com/89653410/142437352-73c020aa-e76a-4984-8396-40bc61ac8506.png)
 ![Mobile_responsive](https://user-images.githubusercontent.com/89653410/142437362-5cbda6a0-606e-4255-97df-3d8b85a610b9.png)
-![searchResults](https://user-images.githubusercontent.com/89653410/142437385-0b32e54a-7d44-41df-8bab-4cb2ad2c21f7.png)
-![recommendedVideos](https://user-images.githubusercontent.com/89653410/142437393-62658d26-120f-487e-a014-0ae067aaf8dc.png)
-![commentsRepliesExtended](https://user-images.githubusercontent.com/89653410/142437405-f6c06b58-2b76-4241-a543-888ee3a7551f.png)
-![commentsRepliesRetracted](https://user-images.githubusercontent.com/89653410/142437409-8ef72e53-33f0-4008-9cb0-44307dbee14d.png)
+![recommendedVideos](https://user-images.githubusercontent.com/89653410/142438837-193e7c00-4225-42ea-b385-1282559c573b.png)
+![searchResults](https://user-images.githubusercontent.com/89653410/142438848-09d3cb85-59bf-4b25-888f-d3ee372175e6.png)
+![commentsRepliesRetracted](https://user-images.githubusercontent.com/89653410/142438860-2fd05749-1370-4892-8199-ea8b844aabdc.png)
+![commentsRepliesExtended](https://user-images.githubusercontent.com/89653410/142438866-f4bbde9f-45f4-4315-886a-87861bb2e507.png)
